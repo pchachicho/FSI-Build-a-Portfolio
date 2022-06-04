@@ -1,0 +1,20 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    
+background-color: darkorchid;
+
+
+}
+.first {
+    border-radius: 20px;
+    width: 400px;
+height: 242px;
+text-align: center;
+margin: auto;
+display: block;
+}
+html * {
+    cursor: pointer;
+}
+
+
